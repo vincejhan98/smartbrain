@@ -1,0 +1,3 @@
+node: most popular for building servers
+
+connect to database with knex
